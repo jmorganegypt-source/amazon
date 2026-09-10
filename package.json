@@ -1,0 +1,13 @@
+{
+  "name": "missingcash-backend",
+  "version": "1.0.0",
+  "description": "MissingCash order backend with Amazon MCF direct-shipment integration",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}

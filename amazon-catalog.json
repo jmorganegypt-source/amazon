@@ -1,0 +1,173 @@
+{
+  "note": "These are the STORE OWNER's own items, fulfilled by Amazon MCF. Payment: credit card / PayPal / crypto. Swap is OFF (Amazon ships only after confirmed payment). Regular users' listings are separate and may allow swap.",
+  "sellers": {
+    "store_missingcash": {
+      "name": "MissingCash Store",
+      "type": "store_owner",
+      "fulfillment": "Amazon MCF",
+      "verified": true
+    }
+  },
+  "items": [
+    {
+      "sku": "MC-UTE-001",
+      "title": "Used 4x4 Ute (HiLux/Ranger grade)",
+      "category": "Vehicles",
+      "priceAUD": 45000,
+      "asin": "B0REPLACE",
+      "stock": 8,
+      "shipsVia": "Amazon MCF",
+      "seller": "store_missingcash",
+      "accepts": {
+        "creditcard": true,
+        "paypal": true,
+        "crypto": true,
+        "swap": false
+      }
+    },
+    {
+      "sku": "MC-JET-002",
+      "title": "Jet Ski (Sea-Doo/GTI class)",
+      "category": "Vehicles",
+      "priceAUD": 8500,
+      "asin": "B0REPLACE",
+      "stock": 5,
+      "shipsVia": "Amazon MCF",
+      "seller": "store_missingcash",
+      "accepts": {
+        "creditcard": true,
+        "paypal": true,
+        "crypto": true,
+        "swap": false
+      }
+    },
+    {
+      "sku": "MC-PS5-003",
+      "title": "PS5 Disc Console Bundle",
+      "category": "Electronics",
+      "priceAUD": 749,
+      "asin": "B0REPLACE",
+      "stock": 25,
+      "shipsVia": "Amazon MCF",
+      "seller": "store_missingcash",
+      "accepts": {
+        "creditcard": true,
+        "paypal": true,
+        "crypto": true,
+        "swap": false
+      }
+    },
+    {
+      "sku": "MC-MIL-004",
+      "title": "Milwaukee M18 8pc Tool Kit",
+      "category": "Tools",
+      "priceAUD": 899,
+      "asin": "B0REPLACE",
+      "stock": 40,
+      "shipsVia": "Amazon MCF",
+      "seller": "store_missingcash",
+      "accepts": {
+        "creditcard": true,
+        "paypal": true,
+        "crypto": true,
+        "swap": false
+      }
+    },
+    {
+      "sku": "MC-DYS-005",
+      "title": "Dyson V15 Detect Vacuum",
+      "category": "Appliances",
+      "priceAUD": 949,
+      "asin": "B0REPLACE",
+      "stock": 15,
+      "shipsVia": "Amazon MCF",
+      "seller": "store_missingcash",
+      "accepts": {
+        "creditcard": true,
+        "paypal": true,
+        "crypto": true,
+        "swap": false
+      }
+    },
+    {
+      "sku": "MC-BRV-006",
+      "title": "Breville Barista Express",
+      "category": "Appliances",
+      "priceAUD": 699,
+      "asin": "B0REPLACE",
+      "stock": 20,
+      "shipsVia": "Amazon MCF",
+      "seller": "store_missingcash",
+      "accepts": {
+        "creditcard": true,
+        "paypal": true,
+        "crypto": true,
+        "swap": false
+      }
+    },
+    {
+      "sku": "MC-LEG-007",
+      "title": "LEGO Retired Set (Collector)",
+      "category": "Collectibles",
+      "priceAUD": 349,
+      "asin": "B0REPLACE",
+      "stock": 12,
+      "shipsVia": "Amazon MCF",
+      "seller": "store_missingcash",
+      "accepts": {
+        "creditcard": true,
+        "paypal": true,
+        "crypto": true,
+        "swap": false
+      }
+    },
+    {
+      "sku": "MC-EBK-008",
+      "title": "E-Bike (Commuter, 250W)",
+      "category": "Fitness",
+      "priceAUD": 1899,
+      "asin": "B0REPLACE",
+      "stock": 10,
+      "shipsVia": "Amazon MCF",
+      "seller": "store_missingcash",
+      "accepts": {
+        "creditcard": true,
+        "paypal": true,
+        "crypto": true,
+        "swap": false
+      }
+    },
+    {
+      "sku": "MC-TNT-009",
+      "title": "4-Person Camping Tent Kit",
+      "category": "Outdoors",
+      "priceAUD": 299,
+      "asin": "B0REPLACE",
+      "stock": 30,
+      "shipsVia": "Amazon MCF",
+      "seller": "store_missingcash",
+      "accepts": {
+        "creditcard": true,
+        "paypal": true,
+        "crypto": true,
+        "swap": false
+      }
+    },
+    {
+      "sku": "MC-AIR-010",
+      "title": "Air Fryer XL (5.5L)",
+      "category": "Appliances",
+      "priceAUD": 129,
+      "asin": "B0REPLACE",
+      "stock": 50,
+      "shipsVia": "Amazon MCF",
+      "seller": "store_missingcash",
+      "accepts": {
+        "creditcard": true,
+        "paypal": true,
+        "crypto": true,
+        "swap": false
+      }
+    }
+  ]
+}
