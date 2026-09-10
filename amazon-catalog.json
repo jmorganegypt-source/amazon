@@ -18,6 +18,7 @@
       "stock": 8,
       "shipsVia": "Amazon MCF",
       "seller": "store_missingcash",
+      "imageUrl": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1080&q=80",
       "accepts": {
         "creditcard": true,
         "paypal": true,
@@ -34,6 +35,7 @@
       "stock": 5,
       "shipsVia": "Amazon MCF",
       "seller": "store_missingcash",
+      "imageUrl": "https://images.unsplash.com/photo-1559310589-2673bfe16970?auto=format&fit=crop&w=1080&q=80",
       "accepts": {
         "creditcard": true,
         "paypal": true,
@@ -50,6 +52,7 @@
       "stock": 25,
       "shipsVia": "Amazon MCF",
       "seller": "store_missingcash",
+      "imageUrl": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=1080&q=80",
       "accepts": {
         "creditcard": true,
         "paypal": true,
@@ -66,6 +69,7 @@
       "stock": 40,
       "shipsVia": "Amazon MCF",
       "seller": "store_missingcash",
+      "imageUrl": "https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&w=1080&q=80",
       "accepts": {
         "creditcard": true,
         "paypal": true,
@@ -82,6 +86,7 @@
       "stock": 15,
       "shipsVia": "Amazon MCF",
       "seller": "store_missingcash",
+      "imageUrl": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=1080&q=80",
       "accepts": {
         "creditcard": true,
         "paypal": true,
@@ -98,6 +103,7 @@
       "stock": 20,
       "shipsVia": "Amazon MCF",
       "seller": "store_missingcash",
+      "imageUrl": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?auto=format&fit=crop&w=1080&q=80",
       "accepts": {
         "creditcard": true,
         "paypal": true,
@@ -114,6 +120,7 @@
       "stock": 12,
       "shipsVia": "Amazon MCF",
       "seller": "store_missingcash",
+      "imageUrl": "https://images.unsplash.com/photo-1585366119957-e9730b6d0f60?auto=format&fit=crop&w=1080&q=80",
       "accepts": {
         "creditcard": true,
         "paypal": true,
@@ -130,6 +137,7 @@
       "stock": 10,
       "shipsVia": "Amazon MCF",
       "seller": "store_missingcash",
+      "imageUrl": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?auto=format&fit=crop&w=1080&q=80",
       "accepts": {
         "creditcard": true,
         "paypal": true,
@@ -146,6 +154,7 @@
       "stock": 30,
       "shipsVia": "Amazon MCF",
       "seller": "store_missingcash",
+      "imageUrl": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=1080&q=80",
       "accepts": {
         "creditcard": true,
         "paypal": true,
@@ -162,6 +171,7 @@
       "stock": 50,
       "shipsVia": "Amazon MCF",
       "seller": "store_missingcash",
+      "imageUrl": "https://images.unsplash.com/photo-1585515320310-259814833e62?auto=format&fit=crop&w=1080&q=80",
       "accepts": {
         "creditcard": true,
         "paypal": true,
